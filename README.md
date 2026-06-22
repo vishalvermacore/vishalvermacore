@@ -1,137 +1,202 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vishal%20Verma&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descAlign=50" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=580&lines=👋+Hey%2C+I'm+Vishal+Verma!;Data+Scientist+%7C+ML+Engineer;Building+AI+for+India's+Fintech+Problems+🇮🇳;UPI+Fraud+•+Loan+Risk+•+Customer+Intelligence;🚀+Open+to+Work+—+Immediate+Joiner)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Vishal%20Verma&fontSize=58&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Data%20Scientist%20•%20ML%20Engineer%20•%20Full-Stack%20Developer&descAlignY=56&descAlign=50&descSize=18" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=vishalvermacore&color=0e75b6&style=flat-square&label=Profile+Views)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=👋+Hi%2C+I'm+Vishal+Verma!;Building+AI+for+India's+Fintech+Ecosystem+🇮🇳;UPI+Fraud+Detection+•+Loan+Risk+•+Segmentation;End-to-end+ML+pipelines+that+actually+ship+🚀;Data+Science+%2B+Full-Stack+in+one+profile;Open+to+Work+—+Immediate+Joiner+✅)](https://git.io/typing-svg)
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=vishalvermacore&color=0e75b6&style=flat-square&label=Profile+Views)](https://github.com/vishalvermacore)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishalvermacore)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishalvermacore)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=vercel&logoColor=white)](https://vishal-verma-portfolio.vercel.app)
 &nbsp;
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vishalverma.50103@gmail.com)
+&nbsp;
+[![Open to Work](https://img.shields.io/badge/🟢_Open_to_Work-Immediate_Joiner-2ea44f?style=flat-square)](mailto:vishalverma.50103@gmail.com)
 
 </div>
 
 ---
 
-## 💫 About Me
+## 🧑‍💻 About Me
+
+<table>
+<tr>
+<td valign="top">
 
 ```
-🎓  B.Tech CS @ SDCET (AKTU), Muzaffarnagar — 2025 Graduate
-🔍  Passionate about turning raw, messy data into real business decisions
-🏦  Focused on Fintech AI — UPI fraud detection, loan risk, customer segments
-🛠️  End-to-end ML: EDA → feature engineering → model → deployment
-🌐  Full-Stack side: React • Node.js • Express • MongoDB
-📍  Muzaffarnagar, UP  |  🟢 Immediate Joiner
+🎓  B.Tech CS — SDCET (AKTU), Muzaffarnagar | Class of 2025
+🏦  Domain focus: Fintech AI — fraud, risk, customer intelligence
+🔬  Workflow: raw data → EDA → feature engineering → deployment
+📊  SHAP-validated | SMOTE pipelines | Statistical hypothesis testing
+🌐  Secondary: React • Node.js • Express • MongoDB
+📍  Muzaffarnagar, UP, India  |  🟢 Immediate Joiner
 ```
 
----
+**Currently levelling up in:**
 
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-black?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![MLOps](https://img.shields.io/badge/MLOps-black?style=flat-square&logo=github-actions&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud%20Deployment-black?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![LLM APIs](https://img.shields.io/badge/LLM%20APIs-black?style=flat-square&logo=openai&logoColor=white)
 
-## 🛠️ Tech Stack
-
-**Data Science & Machine Learning**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=flat-square&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
-**Visualization & Deployment**
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4EABE6?style=flat-square&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**Full-Stack**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat-square&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛡️ UPIShield — UPI Fraud Detection & Risk Intelligence Platform
+<table>
+<tr>
 
-> **Python • MySQL • Scikit-learn • SMOTE • XGBoost • SHAP**
+<td width="50%" valign="top">
 
-- Engineered a **250K-record MySQL fraud database** with indexed views and **22 business-intelligence SQL queries** across 17 attributes
-- Built a leakage-safe pipeline (ColumnTransformer + SMOTE + Stratified K-Fold CV) to handle **0.19% class imbalance**
-- Diagnosed weak signal via chi-square testing; validated with synthetic-pattern experiment — **lifted ROC-AUC from 0.51 → 0.74 (SHAP-confirmed)**
+### 🛡️ UPIShield
+**UPI Fraud Detection & Risk Intelligence**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=flat-square&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-Explainability-blueviolet?style=flat-square)
+
+- 📦 **250K-record** MySQL fraud DB — indexed views + 22 BI SQL queries
+- ⚖️ Handled **0.19% class imbalance** via SMOTE + Stratified K-Fold
+- 📈 **ROC-AUC lifted: 0.51 → 0.74** via chi-square diagnosis + SHAP-validated synthetic experiment
 
 [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vishalvermacore/upishield)
 
----
+</td>
 
-### 💳 LoanSense — Intelligent Loan Approval System
+<td width="50%" valign="top">
 
-> **Python • XGBoost • Scikit-learn • Streamlit**
+### 💳 LoanSense
+**Intelligent Loan Approval System**
 
-- Benchmarked **7 classification algorithms** on 950 records across 20 financial features
-- **XGBoost champion: 96.3% accuracy • 0.943 F1-score** on imbalanced 69/31 test split
-- Deployed a serialized pipeline (Joblib) as a **live Streamlit Cloud app** — real-time eligibility predictions
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=flat-square&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-[![Live Demo](https://img.shields.io/badge/Live%20App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://loansense.streamlit.app)
-&nbsp;
+- 🥊 Benchmarked **7 classification algorithms** on 950 records, 20 features
+- 🏆 **XGBoost champion: 96.3% accuracy • 0.943 F1** on 69/31 imbalanced split
+- 🌐 Deployed as **live Streamlit Cloud app** — real-time predictions via Joblib pipeline
+
+[![Live](https://img.shields.io/badge/Live%20App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://loansense.streamlit.app)
 [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vishalvermacore/loansense)
 
----
+</td>
+
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### 🛒 SmartCart — Customer Segmentation Engine
 
-> **Python • K-Means • Agglomerative Clustering • PCA • Pandas**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![K-Means](https://img.shields.io/badge/K--Means-orange?style=flat-square)
+![Agglomerative](https://img.shields.io/badge/Agglomerative%20Clustering-purple?style=flat-square)
+![PCA](https://img.shields.io/badge/PCA-teal?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-- Processed **2,240 e-commerce customers**, reduced 22 features → 3 PCA components
-- Designed full preprocessing pipeline: median imputation → outlier removal → OneHotEncoder → StandardScaler
-- Profiled **4 behavioural segments**, uncovering a **VIP cluster: 32% campaign response rate (4× baseline)**
+- 👥 Processed **2,240 e-commerce customers** — reduced 22 features → 3 PCA components (Ward linkage)
+- 🧹 Full preprocessing: median imputation → outlier removal → OneHotEncoder → StandardScaler — validated via Silhouette + Elbow
+- 💎 Uncovered **VIP cluster: 32% campaign response rate — 4× the 8% baseline** — enabling targeted, data-driven marketing
 
 [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vishalvermacore/smartcart)
 
+</td>
+</tr>
+</table>
+
 ---
 
+## 🛠️ Tech Stack
+
+**Data Science & Machine Learning**
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch&theme=dark" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/XGBoost-EC4E20?style=flat-square&logoColor=white" height="48"/>
+</p>
+
+**Web & Full Stack**
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,vite,js&theme=dark" />
+  </a>
+</p>
+
+**Databases**
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" />
+  </a>
+</p>
+
+**Tools & Platforms**
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,java,c&theme=dark" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" height="48"/>
+</p>
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalvermacore&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=vishalvermacore&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalvermacore&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+&nbsp;&nbsp;
+<img height="170" src="https://streak-stats.demolab.com?user=vishalvermacore&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
 </div>
 
 ---
 
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Vishal's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishalvermacore&custom_title=Vishal%27s%20Contribution%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=79ff97&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishalvermacore/vishalvermacore/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishalvermacore/vishalvermacore/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vishalvermacore/vishalvermacore/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
 
 ## 📬 Connect With Me
 
@@ -142,6 +207,10 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://vishal-verma-portfolio.vercel.app)
 &nbsp;
 [![Email](https://img.shields.io/badge/Gmail-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishalverma.50103@gmail.com)
+
+<br/>
+
+> 💡 *"Data isn't just numbers — it's the story of what happened and the map to what's next."*
 
 </div>
 
