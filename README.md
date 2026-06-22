@@ -93,7 +93,7 @@
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" title="Postman"/>&nbsp;
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java"/>&nbsp;
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" title="C"/>&nbsp;
-  <img height="48" src="https://cdn.simpleicons.org/microsoftexcel/217346" alt="Excel" title="Excel"/>
+  <img height="48" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" title="Excel"/>
 </p>
 
 ---
