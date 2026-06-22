@@ -26,12 +26,12 @@
 
 <table>
 <tr>
-<td valign="top">
+
 
 ```
-🎓  B.Tech CS — SDCET (AKTU), Muzaffarnagar | Class of 2025
+🎓  B.Tech CS — SDCET (AKTU), Muzaffarnagar, India | Graduated 2025
 🏦  Domain focus: Fintech AI — fraud, risk, customer intelligence
-🔬  Workflow: raw data → EDA → feature engineering → deployment
+🔬  End-to-end ML: raw data → EDA → feature engineering → model → deployment
 📊  SHAP-validated | SMOTE pipelines | Statistical hypothesis testing
 🌐  Secondary: React • Node.js • Express • MongoDB
 📍  Muzaffarnagar, UP, India  |  🟢 Immediate Joiner
@@ -44,7 +44,6 @@
 ![Cloud](https://img.shields.io/badge/Cloud%20Deployment-black?style=flat-square&logo=amazonaws&logoColor=FF9900)
 ![LLM APIs](https://img.shields.io/badge/LLM%20APIs-black?style=flat-square&logo=openai&logoColor=white)
 
-</td>
 </tr>
 </table>
 
