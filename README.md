@@ -50,6 +50,54 @@
 
 ---
 
+## 🛠️ Tech Stack
+
+**Data Science & Machine Learning**
+
+<p align="left">
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python"/>&nbsp;
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy"/>&nbsp;
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas"/>&nbsp;
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" title="Scikit-learn"/>&nbsp;
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow"/>&nbsp;
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch"/>&nbsp;
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" title="Jupyter"/>&nbsp;
+  <img height="48" src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="Streamlit" title="Streamlit"/>
+</p>
+
+**Web & Full Stack**
+
+<p align="left">
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React"/>&nbsp;
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" title="Node.js"/>&nbsp;
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" title="Express"/>&nbsp;
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS"/>&nbsp;
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="Vite" title="Vite"/>&nbsp;
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript"/>
+</p>
+
+**Databases**
+
+<p align="left">
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL"/>&nbsp;
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" title="MongoDB"/>&nbsp;
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" title="PostgreSQL"/>
+</p>
+
+**Tools & Platforms**
+
+<p align="left">
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git"/>&nbsp;
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" title="GitHub"/>&nbsp;
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code"/>&nbsp;
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" title="Postman"/>&nbsp;
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java"/>&nbsp;
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" title="C"/>&nbsp;
+  <img height="48" src="https://cdn.simpleicons.org/microsoftexcel/217346" alt="Excel" title="Excel"/>
+</p>
+
+---
+
 ## 🚀 Featured Projects
 
 <table>
@@ -117,50 +165,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-**Data Science & Machine Learning**
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch&theme=dark" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="48"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="48"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="48"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="48"/>
-  <img src="https://img.shields.io/badge/XGBoost-EC4E20?style=flat-square&logoColor=white" height="48"/>
-</p>
-
-**Web & Full Stack**
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,vite,js&theme=dark" />
-  </a>
-</p>
-
-**Databases**
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" />
-  </a>
-</p>
-
-**Tools & Platforms**
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,java,c&theme=dark" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" height="48"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" height="48"/>
-</p>
-
----
 
 ## 📊 GitHub Stats
 
